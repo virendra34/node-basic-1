@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.1790" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-07-12T06:34:13" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="express_recipes_pagination" timestamp="2021-07-12T06:34:13" tests="6" file="/home/mohit/Hackerrank/57be5475-4d8b-4257-946f-8189430ac261/test/index.spec.js" time="0.1790" failures="0">
+    <testcase name="express_recipes_pagination Should return 200 for /recipes with default pagination" time="0.1170" classname="Should return 200 for /recipes with default pagination">
+    </testcase>
+    <testcase name="express_recipes_pagination Should respond with correct data when only page is set in query" time="0.0100" classname="Should respond with correct data when only page is set in query">
+    </testcase>
+    <testcase name="express_recipes_pagination Should respond with correct data when only limit is set in query" time="0.0130" classname="Should respond with correct data when only limit is set in query">
+    </testcase>
+    <testcase name="express_recipes_pagination Should respond with correct data when both limit and page are set in query - 1" time="0.0110" classname="Should respond with correct data when both limit and page are set in query - 1">
+    </testcase>
+    <testcase name="express_recipes_pagination Should respond with correct data when both limit and page are set in query - 2" time="0.0190" classname="Should respond with correct data when both limit and page are set in query - 2">
+    </testcase>
+    <testcase name="express_recipes_pagination Should respond with correct data when both limit and page are out of bounds" time="0.0090" classname="Should respond with correct data when both limit and page are out of bounds">
+    </testcase>
+  </testsuite>
+</testsuites>
